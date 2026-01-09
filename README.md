@@ -29,8 +29,8 @@ This project is approximately 15,000+ lines of code and was developed incrementa
 - Debugging and iteration over a long-term project
 
 ## How to Run
-1. Compile the program using your compiler
-2. Run the executable in the terminal
+1. Download all files and compile the program
+2. Run the .cpp file on terminal
 3. Follow the on-screen menus and prompts
 
 ## Status

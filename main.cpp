@@ -6,13 +6,13 @@
 #include <ctime>
 #include <algorithm>
 
-#include "PokemonDatabase.h"
-#include "PokemonUtility.h"
-#include "Player.h"
-#include "Trainer.h"
-#include "ItemDatabase.h"
-#include "PokemonDisplay.h"
-#include "PokemonMaps.h"
+#include "pokedex.h"
+#include "utils.h"
+#include "player.h"
+#include "trainer.h"
+#include "item.h"
+#include "display.h"
+#include "maps.h"
 
 using namespace std;
 

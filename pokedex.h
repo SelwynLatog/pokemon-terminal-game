@@ -1,5 +1,5 @@
-#ifndef POKEMON_DATABASE_H
-#define POKEMON_DATABASE_H
+#ifndef POKEDEX_H
+#define POKEDEX_H
 
 #include <conio.h>
 #include <string>

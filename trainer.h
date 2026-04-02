@@ -6,9 +6,9 @@
 #include <iostream>
 #include <cstdlib>
 
-#include "Player.h"
-#include "PokemonDatabase.h"
-#include "ItemDatabase.h"
+#include "player.h"
+#include "pokedex.h"
+#include "item.h"
 
 using namespace std;
 

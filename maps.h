@@ -1,5 +1,5 @@
-#ifndef POKEMON_MAPS_H
-#define POKEMON_MAPS_H
+#ifndef MAPS_H
+#define MAPS_H
 
 #include <iostream>
 #include <map>
@@ -10,11 +10,11 @@
 #include <cstdlib>
 #include <cctype>
 
-#include "PokemonUtility.h"
-#include "Player.h"
-#include "Trainer.h"
-#include "PokemonDisplay.h"
-#include "PokemonDatabase.h"
+#include "utils.h"
+#include "player.h"
+#include "trainer.h"
+#include "display.h"
+#include "pokedex.h"
 
 using namespace std;
 extern PokemonDatabase db;

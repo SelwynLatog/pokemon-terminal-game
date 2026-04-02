@@ -1,5 +1,5 @@
-#ifndef POKEMON_UTILITY_H
-#define POKEMON_UTILITY_H
+#ifndef UTIL_H
+#define UTIL_H
 
 #include <iostream>
 #include <vector>
@@ -8,10 +8,10 @@
 #include <cstdlib>
 #include <iomanip>
 
-#include "PokemonDatabase.h"
-#include "Player.h"
-#include "PokemonDisplay.h"
-#include "ItemDatabase.h"
+#include "pokedex.h"
+#include "player.h"
+#include "display.h"
+#include "item.h"
 
 using namespace std;
 
@@ -2620,4 +2620,4 @@ static void hallOfFameSequence(Player &player) {
     pressAnyKey();
 }
 
-#endif //POKEMON_UTILITY_H
+#endif

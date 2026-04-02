@@ -1,5 +1,5 @@
-#ifndef POKEMON_DISPLAY_H
-#define POKEMON_DISPLAY_H
+#ifndef DISPLAY_H
+#define DISPLAY_H
 
 #include <iostream>
 #include <string>
@@ -10,7 +10,7 @@
 #include <iomanip>
 #include <cmath>
 
-#include "Player.h"
+#include "player.h"
 
 using namespace std;
 
@@ -2181,4 +2181,4 @@ static void playEndCredits() {
 
 }
 
-#endif //POKEMON_DISPLAY_H
+#endif

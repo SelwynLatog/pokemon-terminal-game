@@ -1,5 +1,5 @@
-#ifndef ITEM_DATABASE_H
-#define ITEM_DATABASE_H
+#ifndef ITEM_H
+#define ITEM_H
 
 #include <string>
 #include <vector>
@@ -93,4 +93,4 @@ static inline vector<ShopItem> getPokemartInventory() {
     };
 }
 
-#endif // ITEM_DATABASE_H
+#endif

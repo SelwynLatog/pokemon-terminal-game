@@ -5,8 +5,8 @@
 #include <vector>
 #include <iostream>
 
-#include "PokemonDatabase.h"
-#include "ItemDatabase.h"
+#include "pokedex.h"
+#include "item.h"
 
 using namespace std;
 
@@ -133,4 +133,4 @@ inline Player createNewPlayer(const PokemonDatabase& db, const string& starterNa
     return player;
 }
 
-#endif // PLAYER_H
+#endif

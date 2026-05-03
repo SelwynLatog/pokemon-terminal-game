@@ -308,7 +308,7 @@ static vector<pair<MapID, int>> defeatedTrainers;
 
 /***DEV MODE FOR TESTING***/
 static bool DEBUG_MODE = false;  // Set to false for normal gameplay
-static MapID DEBUG_SPAWN_MAP = MAP_MOSSDEEP1;
+static MapID DEBUG_SPAWN_MAP = MAP_ROUTE101;
 
 
 /*****************************************************************************
@@ -413,10 +413,10 @@ static vector<string> littleroot_map = {
 	"YY'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''YY",
 	"YY''''''----------'''''''''''''''''''''''''''----------''''''YY",
 	"YY'''--|||||||||||--''''''''''''''''''''''--|||||||||||--''''YY",
-	"YY'''||||||||||||||||'''''''''''''''''''''|||||||||||||||'''''YY",
+	"YY'''||||||||||||||||'''''''''''''''''''''|||||||||||||||''''YY",
 	"YY''''|  |||   |___|'''''''''''''''''''''''|__|   |||  |'''''YY",
 	"YY''''|  |-|---|   |'''''''''''''''''''''''|  |---|-|  |'''''YY",
-	"YY''''##########222#'''''''''''''''''''''''#111#########'''''YY",
+	"YY''''##########222#'''''''''''''''''''''''#111#########'''YY",
 	"YY'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''YY",
 	"YY'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''YY",
 	"YY'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''YY",
@@ -504,7 +504,7 @@ static vector<string> route101_map = {
     "YY^^^^^^^^''''''''''''''''''''''YYY^^^^^........''''",
     "YYY^^^^^^^''''''''''''''''''''''YYYYYYYYYYYYYYYYYYYY",
     "YYYYYYYYYYYYYYYYYYYY'''.'....'''YYYYYYYYYYYYYYYYYYYY",
-    "YYYYYYYYYYYYYYYYYYYY...=====....YYYYYYYYYYYYYYYYYYYYY"
+    "YYYYYYYYYYYYYYYYYYYY...=====....YYYYYYYYYYYYYYYYYYYY"
 };
 
 static vector<string> oldale_map = {

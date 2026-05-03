@@ -46,7 +46,7 @@ The project has genuinely taught me a lot. It doesn't look flashy and future me 
    pokemon.exe
    (Windows)
    
-##Note: Built with Windows-based includes, so Windows recommended. We had to present it via a Windows laptop. Don't torch me pls.
+## Note: Built with Windows-based includes, so Windows recommended. We had to present it via a Windows laptop. Don't torch me pls.
 
 
 <img width="1135" height="636" alt="Pokemonss4" src="https://github.com/user-attachments/assets/03ba8a7b-b3be-4575-b600-01edab284284" />

@@ -2,7 +2,7 @@
 
 My professor is a Pokemon nerd. He is also quite insane. He has this yearly torture ritual for 2nd year IT students in his Data Structures & Algorithms class where he makes his inexperienced students code an entire game on the terminal. In ASCII, from scratch.
 
-Naturally my first reaction was "this is just ridiculous, this is insane, I am never going to be able to do this" 15,000 lines later, it somehow worked out. It's messy, but somehow worked out. Constants are everywhere. Non-existent documentation, and if you accidentally duplicate a Pokemon in the database it crashes spectacularly. But it worked somehow! Got a 97/100 from my professor just from the sheer passion (but also burning rage) from this project.
+Naturally my first reaction was "this is just ridiculous, this is insane, I am never going to be able to do this" 17,000 lines later, it somehow worked out. It's messy, but somehow worked out. Constants are everywhere. Non-existent documentation, and if you accidentally duplicate a Pokemon in the database it crashes spectacularly. But it worked somehow! Got a 97/100 from my professor just from the sheer passion (but also burning rage) from this project.
 
 Built it in 5 weeks. Learned more about state management and data organization in those weeks than the rest of the semester combined. You know the projects prior to this was a simple "make a mini library system!" or "haha make a mini student information system!", then there's this. "haha make the entire game in terminal in a month!".
 

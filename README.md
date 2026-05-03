@@ -63,3 +63,7 @@ The project has genuinely taught me a lot. It doesn't look flashy and future me 
 <img width="336" height="141" alt="dialogue" src="https://github.com/user-attachments/assets/62ac3f13-f300-48db-890a-5792183bcfcb" />
 
 <img width="326" height="55" alt="transition_msg" src="https://github.com/user-attachments/assets/b8656422-b67d-49e7-a2ef-93fc29b78716" />
+
+<img width="800" height="450" alt="pokesample" src="https://github.com/user-attachments/assets/910b6586-4b61-429a-9ec8-f99ba4824000" />
+
+<img width="800" height="450" alt="pokesample2" src="https://github.com/user-attachments/assets/672a5450-2750-4914-806e-5253c5548be3" />

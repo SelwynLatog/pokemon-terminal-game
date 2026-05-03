@@ -46,8 +46,7 @@ The project has genuinely taught me a lot. It doesn't look flashy and future me 
    pokemon.exe
    (Windows)
    
-## Note: Built with Windows-based includes, so Windows recommended. We had to present it via a Windows laptop. Don't torch me pls.
-
+## Note: Built with Windows-based includes. System API such as <windows.h> & <conio.h> will break on standard bash. Ironic because I built this on an old Pentium linux device running via Wine. But amateurish me did not think about multiplatform compatibility and the project was presented via a windows-based device.
 
 <img width="1135" height="636" alt="Pokemonss4" src="https://github.com/user-attachments/assets/03ba8a7b-b3be-4575-b600-01edab284284" />
 
